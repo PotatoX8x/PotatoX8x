@@ -1,26 +1,25 @@
-My name is Oleksandr Vonsovych
+My name is Oleksandr Vonsovych.
 
-I am a passionate Data Scientist / Machine Learning Engineer from Ukraine, started my career in 2022.
-My specializations are:
-- Computer Vision
-  - image classification
-  - object detection
-  - object segmentation
-  - sequence classification
-  
-- Natural Language Processing
-  - sentiment analysis
-  - text summarization
-  - text classification
-  - neural machine translation
-  - named entity recognition
+I'm a Data Scientist / Machine Learning Engineer from Ukraine, building production AI systems since 2022. My focus areas:
 
-- Large Language Models
-  - embeddings and vectorstores
-  - RAG agents
-  - chatbots
+**Computer Vision**
+- image classification & object detection
+- object segmentation
+- face recognition
 
-<!---
-PotatoX8x/PotatoX8x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Natural Language Processing**
+- sentiment analysis & text classification
+- summarization & keyword extraction
+- neural machine translation
+- named entity recognition
+
+**Large Language Models & Agents**
+- embeddings, vectorstores & hybrid retrieval (RAG)
+- LangChain/LangGraph agents (RAG, SQL, graph-based conversation flows)
+- fine-tuning small language models
+- self-hosted LLM deployment (Ollama)
+
+**MLOps & Deployment**
+- FastAPI services, Docker, CI/CD
+- AWS (Lambda, SageMaker, EC2, ECR)
+- Azure (AI Foundry, AI Search)
